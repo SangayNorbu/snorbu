@@ -1,0 +1,210 @@
+body{
+    background-color: yellow;
+}
+
+#container{
+
+   text-align: center;
+   font-size: 20px;
+}
+
+#con{
+    font-size: 40px;
+    color: firebrick;
+    text-align: center;
+
+}
+
+#btn{
+    background-color: chocolate;
+    border-radius: 5px;
+}
+
+#con-1{
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+}
+
+#con-2{
+   
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    height: 80px;
+
+}
+
+#hide {
+background-color: coral;
+border-radius: 5px;
+}
+
+#show {
+    background-color: coral;
+    border-radius: 5px;
+    }
+
+#btn-2{
+    background-color: coral;
+    border-radius: 5px;
+}
+   
+#down, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: chartreuse;
+    border: solid 5px black;
+    font-size: 50px;
+    color: blue;
+    border-radius: 5px;
+  }
+  
+  #down {
+    padding: 18px;
+    display: none;
+  }
+
+  #run{
+    background-color: aqua;
+    border-radius: 5px;
+  }
+
+  #panel, #slide {
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+    background-color: teal;
+    color: whitesmoke;
+    border: solid 5px black;
+    border-radius: 5px;
+    
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }
+
+  #stop{
+    background-color: darkblue;
+    color: aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 25px;
+    width: 150px;
+  }
+
+  #btn-4{
+    height: 30px;
+    width: 150px;
+    background-color: burlywood;
+    border-radius: 5px;
+  }
+
+  #btn-5{
+    height: 30px;
+    width: 150px;
+    background-color: red;
+    border-radius: 5px;
+  }
+
+  #btn-6{
+    height: 30px;
+    width: 150px;
+    background-color: dimgray;
+    border-radius: 5px;
+  }
+
+  #btn-7{
+    height: 30px;
+    width: 150px;
+    background-color: darkmagenta;
+    border-radius: 5px;
+  }
+
+  #btn-8{
+    height: 30px;
+    width: 150px;
+    background-color: darkmagenta;
+    border-radius: 5px;
+  }
+
+  #btn-9{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    border-radius: 5px;
+    color: aliceblue;
+  }
+
+  #btn-10{
+    height: 50px;
+    width: 200px;
+    background-color: orangered;
+    border-radius: 5px;
+    color: aliceblue;
+  }
+
+  #btn-11{
+    height: 50px;
+    width: 200px;
+    background-color: orangered;
+    border-radius: 5px;
+    color: aliceblue;
+  }
+
+  #btn-12{
+    height: 50px;
+    width: 200px;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    color: aliceblue;
+  }
+
+  .important {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .blue {
+    color: blue;
+  }
+
+  .btn{
+    height: 50px;
+    width: 250px;
+    background-color: darkmagenta;
+    border-radius: 5px;
+    color: aliceblue;
+  }
+  
+  .btn-1{
+    height: 50px;
+    width: 250px;
+    background-color: darkgreen;
+    border-radius: 5px;
+    
+  }
+
+  #dimension {
+    height: 100px;
+    width: 1220px;
+    padding: 10px;
+    margin: 3px;
+    border: 5px solid blue;
+    background-color: lightblue;
+    right: 90px;
+   
+  }
+
+  .btn-2{
+    height: 50px;
+    width: 250px;
+    background-color: lightblue;
+    border-radius: 5px;
+    
+  }
+
